@@ -125,10 +125,3 @@ streamlit run travel_scopee.py
 - 📱 Mobile-friendly PWA version
 
 ---
-
-## 👩‍💻 Author
-**Aashritha Lakshmi Mallampati**  
-Computer Science Student | AI & Python Developer  
-
-💼 [GitHub](https://github.com/Aashritha-2005)  
-📧 Contact: *[Add your email if you want]*  
